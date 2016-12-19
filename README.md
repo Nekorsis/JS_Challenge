@@ -1,2 +1,2 @@
-# JS_Challenge
+# JavaScript Challenge
 Vanilla JS challenge
